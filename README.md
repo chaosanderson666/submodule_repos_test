@@ -1,3 +1,3 @@
-# submodule_repos_test test
+# submodule_repos_test
 test
 test
